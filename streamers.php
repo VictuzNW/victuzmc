@@ -1,0 +1,441 @@
+﻿
+<!doctype html>
+<!--====== STREAMERS ======-->
+
+<html lang="en">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-SWKJS83W2J"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-SWKJS83W2J');
+	</script>
+    <!--====== Required meta tags ======-->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" href="../img/icon.png">
+	<link rel="apple-touch-icon" href="../img/icon.jpg" />
+    <!--====== Title ======-->
+    <title>VictuzMc Network | Patner </title>
+    
+
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="../img/icon.png" type="image/png">
+
+    <!--====== Bootstrap css ======-->
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    
+    <!--====== Slick css ======-->
+    <link rel="stylesheet" href="../assets/css/slick.css">
+    
+    <!--====== Magnific Popup css ======-->
+    <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+    
+    <!--====== Line Icons css ======-->
+    <link rel="stylesheet" href="../assets/css/LineIcons.css">
+    
+    <!--====== Default css ======-->
+    <link rel="stylesheet" href="../assets/css/default.css">
+    
+    <!--====== Style css ======-->
+    <link rel="stylesheet" href="../assets/css/style.css">
+	
+	<!--====== Custom ======-->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  
+    <!--====== HEADER ONE PART START ======-->
+
+    <header class="header-area">
+        <div class="navbar-area navbar-one navbar-transparent">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <nav class="navbar navbar-expand-lg">
+                            <a class="navbar-brand" href="index.php">
+							<img src="../assets/images/logo1.png" class="logo" alt="Logo">
+                            </a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarOne" aria-controls="navbarOne" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarOne">
+                                <ul class="navbar-nav m-auto">
+                                    <li class="nav-item">
+                                        <a class="page-scroll" href="index.php">🏠 Inicio</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="page-scroll" href="index.php#guide">📚 Guías</a>
+                                    </li>
+									<li class="nav-item">
+                                        <a href="Noticias.php">📃 Noticias</a>
+                                    </li>
+									<li class="nav-item">
+                                        <a href="staff.php">👨‍ Staff</a>
+                                    </li>		
+									<li class="nav-item">
+                                        <a href="https://tienda.victuzmc.us/" target="_blank">🎁️ Tienda</a>
+                                    </li>
+									<li class="nav-item d-block d-sm-none">
+                                        <a target="_blank" href="https://discord.gg/b3bSp78HNc">👾 Discord</a>
+                                    </li>								
+                                </ul>
+                            </div>
+                            <div class="navbar-btn d-none d-lg-inline-block">
+                                <ul>                                    
+								<li><a class="light" href="https://discord.gg/b3bSp78HNc" target="_blank">👾 DISCORD</a></li>
+                                </ul>
+                            </div>
+                        </nav> <!-- navbar -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+
+        <div id="home" class="header-content-area d-flex align-items-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="header-wrapper">
+                            <div class="header-content">
+                                <p class="text-white h4">No te aburras más y juega con nosotros <b>¡Únete ya!</b></p>
+                                <div class="header-btn rounded-buttons">
+                                    <a class="main-btn rounded-one h9" href="https://discord.gg/b3bSp78HNc" target="_blank"> <span class="azul">IP:</span> play.victuzmc.us  <div class="blink" id="rest"></div></a><br><br>  
+                                    <a class="main-btn rounded-one h5" href="#"><span class="azul">Versión:</span> 1.8 - 1.17</a>
+								</div>
+                            </div> <!-- header content -->
+                            <div class="header-image d-none d-lg-block">
+                                <div class="image">
+                                    <img id="imager"/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+            <div class="header-shape">
+				<img src="../assets/images/header-shape.svg" alt="shape">
+            </div> <!-- header-shape -->
+        </div> <!-- header content area -->
+    </header>
+
+    <!--====== HEADER ONE PART ENDS ======-->
+    
+    <!--====== FEATRES PART START ======-->
+	<section id="streamers" class="features-area pb-15"><br>
+		<div class="container mt-2">
+			<div class="single-testimonial">
+				<h2 class="text-center">LISTA DE PARTNERS</h2>			
+			</div>
+		</div>
+	</section>
+	
+	<section id="recomendados" class="features-area pt-4 pb-60">
+        <div class="container">	
+            <div class="row">
+			                <div class="col-lg-6 col-md-6 col-sm-9">
+								<div class="single-testimonial mt-30">
+									<div class="testimonial-author d-sm-flex">
+									<div class="author-image float-left mr-2">
+									<img src='https://yt3.ggpht.com/ytc/AKedOLQSYyFl1fqiKms92OybHsXRwQtRtbxysHiu3d8XRQ=s88-c-k-c0x00ffffff-no-rj'>							</div>
+									<div class="author-name pl-3 pt-3">
+									<h6 class='name'><i class='fab fa-youtube text-small align-text-bottom'></i> Icrak <span class='text-small text-danger'>•</span></h6><p class='sub-title'>Seguidores: +80k</p></div></div><div class='testimonial-text'><p class='text'>Hola bienvenido a mi canal! Me llamo IcraK me gusta hacer contenido de Minecraft RolePlay. También subo videos de algunos juegos que me gustan. </p>							</div>
+									</div>
+				</div>	
+				<div class="col-lg-6 col-md-6 col-sm-9">
+					<div class="single-testimonial mt-30">
+						<div class="testimonial-author d-sm-flex">
+						<div class="author-image float-left mr-2">
+						<img src='https://yt3.ggpht.com/b1Wlt_m0V4vcg4_bZ37nPgNbDHlPGt-yn8zn0mBE-GA2WftCAUYOtZVCbAlqSuAxaqqToLoulpA=s88-c-k-c0x00ffffff-no-rj'>							</div>
+						<div class="author-name pl-3 pt-3">
+							<h6 class='name'><i class='fab fa-youtube text-small align-text-bottom'></i> xLoganGamerZ <span class='text-small text-danger'>•</span></h6><p class='sub-title'>Seguidores: +1k</p></div></div><div class='testimonial-text'><p class='text'>Hola bienvenido a mi canal! Me llamo IcraK me gusta hacer contenido de Minecraft RolePlay. También subo videos de algunos juegos que me gustan. </p>							</div>
+						</div>
+	</div>	
+	<div class="col-lg-6 col-md-6 col-sm-9">
+		<div class="single-testimonial mt-30">
+			<div class="testimonial-author d-sm-flex">
+			<div class="author-image float-left mr-2">
+			<img src='https://yt3.ggpht.com/ytc/AKedOLR-bqHkA8zdsiBpBpFkrAukxQxjBWZIBB840Nrxkw=s88-c-k-c0x00ffffff-no-rj'>							</div>
+			<div class="author-name pl-3 pt-3">
+				<h6 class='name'><i class='fab fa-youtube text-small align-text-bottom'></i> TheJoker_ZC <span class='text-small text-danger'>•</span></h6><p class='sub-title'>Seguidores: +1k</p></div></div><div class='testimonial-text'><p class='text'>Hola bienvenido a mi canal! Me llamo IcraK me gusta hacer contenido de Minecraft RolePlay. También subo videos de algunos juegos que me gustan. </p>							</div>
+			</div>
+	</div>
+<div class="col-lg-6 col-md-6 col-sm-9">
+	<div class="single-testimonial mt-30">
+		<div class="testimonial-author d-sm-flex">
+		<div class="author-image float-left mr-2">
+		<img src='https://yt3.ggpht.com/ytc/AKedOLRInbACunG8ccKHg3Cf8TXDaGPwlUKySHv8-V5lZw=s88-c-k-c0x00ffffff-no-rj'>							</div>
+		<div class="author-name pl-3 pt-3">
+			<h6 class='name'><i class='fab fa-youtube text-small align-text-bottom'></i> SoyCrisHCF <span class='text-small text-danger'>•</span></h6><p class='sub-title'>Seguidores: +300</p></div></div><div class='testimonial-text'><p class='text'>Hola bienvenido a mi canal! Me llamo IcraK me gusta hacer contenido de Minecraft RolePlay. También subo videos de algunos juegos que me gustan. </p>							</div>
+		</div>
+</div>	
+<div class="col-lg-6 col-md-6 col-sm-9">
+	<div class="single-testimonial mt-30">
+		<div class="testimonial-author d-sm-flex">
+		<div class="author-image float-left mr-2">
+		<img src='https://yt3.ggpht.com/ytc/AKedOLT8KGNY23DWrQqLq0rX5CJ7pqZ-Jp_zKoX-T12cbQ=s88-c-k-c0x00ffffff-no-rj'>							</div>
+		<div class="author-name pl-3 pt-3">
+			<h6 class='name'><i class='fab fa-youtube text-small align-text-bottom'></i> Pipesito <span class='text-small text-danger'>•</span></h6><p class='sub-title'>Seguidores: +1k</p></div></div><div class='testimonial-text'><p class='text'>Hola bienvenido a mi canal! Me llamo IcraK me gusta hacer contenido de Minecraft RolePlay. También subo videos de algunos juegos que me gustan. </p>							</div>
+		</div>
+</div>	
+<div class="col-lg-6 col-md-6 col-sm-9">
+	<div class="single-testimonial mt-30">
+		<div class="testimonial-author d-sm-flex">
+		<div class="author-image float-left mr-2">
+		<img src='https://yt3.ggpht.com/jRPJXIyJBQ4y6y6IBLw8EVP4RKUAtA8sc65NqnYo455nS7JkXDU5fdM2DKTiuupvwNIVtnAamw=s88-c-k-c0x00ffffff-no-rj'>							</div>
+		<div class="author-name pl-3 pt-3">
+			<h6 class='name'><i class='fab fa-youtube text-small align-text-bottom'></i> SoyEnder ツ <span class='text-small text-danger'>•</span></h6><p class='sub-title'>Seguidores: +5k</p></div></div><div class='testimonial-text'><p class='text'>Hola bienvenido a mi canal! Me llamo IcraK me gusta hacer contenido de Minecraft RolePlay. También subo videos de algunos juegos que me gustan. </p>							</div>
+		</div>
+</div>		
+                            <div class="col-lg-12 col-md-6 col-sm-9">
+                    <div class="single-testimonial mt-30">
+						<div class="testimonial-author d-sm-flex align-items-center">
+							<div class="author-image float-left mr-2">
+								<img src="https://becraft.es/img/reco.png" alt="Author">
+							</div>
+							<div class="author-name pl-3 pt-2">
+								<h6 class="name mb-1">¿QUIERES SER RECOMENDADO?</h6>
+														<p class="text">Crea un ticket administrativo en nuestro <a class="light" href="https://discord.gg/YAnnHtAKMV" target="_blank"><b>DISCORD</b></a> e infórmate de todas sus ventajas.</p>
+							</div>
+						</div>
+
+					</div>
+				</div>
+            </div> <!-- row -->
+        </div> <!-- container -->		
+    </section>
+	
+	<section id="requisitos" class="features-area pb-60">	
+        <div class="container">
+			<h2 class="text-center">REQUISITOS</h2><hr>	
+			<h5 class="text-center">Bienvenido a la sección EQUIPO MEDIA  en esta sección podrás saber cuales son los requisitos para tener rango Creador de Contenido </h5><hr>	
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6 col-sm-9">
+                    <div class="single-features text-center mt-20">
+                            <h3 class="features-title">MINI YT</h3>
+							<b><span class="text-danger mt-4"><i class="fab text-danger text-small align-text-bottom fa-youtube"></i> YOUTUBE</span></b><hr>
+							• <b>100</b> suscriptores.<br>
+							• <b>1</b> review <b>25</b> visitas <br><br>
+							<button type="button" class="btn btn-primary btn-sm mt-2 text-uppercase" data-toggle="modal" data-target="#exampleModal">
+								  <i class="fas fa-info-circle"></i> Beneficios
+							</button><br>
+
+								<!-- Modal -->
+								<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+								  <div class="modal-dialog" role="document">
+									<div class="modal-content">
+									  <div class="modal-header">
+										<h5 class="modal-title text-uppercase" id="exampleModalLabel">Beneficios Mini</h5>
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										  <span aria-hidden="true">&times;</span>
+										</button>
+									  </div>
+									  <div class="modal-body">
+										<div class="text-center">
+										<p><strong>DISCORD:</strong></p>
+											<ul>
+											<li>Rango exclusivo</li>
+											<li>Canales VIPS</li>
+											</ul>
+											<br><p><strong>JUEGO:</strong></p>
+											<ul>
+											<li>Rango exclusivo</li>
+											<li>Comandos (fly, repair)</li>
+											<li>Kits</li>
+											</ul>
+										</div>
+									  </div>
+									  <div class="modal-footer">
+										<button type="button" class="btn btn-secondary" data-dismiss="modal">CERRAR</button>
+									  </div>
+									</div>
+								  </div>
+								</div>
+                    </div> <!-- single features --> 
+				</div>
+                <div class="col-lg-4 col-md-6 col-sm-9">
+                    <div class="single-features text-center mt-20">
+                            <h3 class="features-title">YOUTUBE/TWITCH</h3>
+							
+							<b><span class="text-danger mt-4"><i class="fab text-danger text-small align-text-bottom fa-youtube"></i> YOUTUBE</span></b><hr>
+							• <b> 500</b> suscriptores.<br>
+							• <b>1</b> review <b>200</b> visitas <br><br>
+							<b><span class="text-lila"><i class="fab text-lila text-small align-text-bottom fa-twitch"></i> TWITCH</span></b><hr>
+							• <b>1</b> directo semanal + <b>IP en el titulo</b>.<br>
+							• <b>15</b> viewers.<br><br>
+							<button type="button" class="btn btn-primary btn-sm mt-2 text-uppercase" data-toggle="modal" data-target="#exampleModa2">
+								  <i class="fas fa-info-circle"></i> Beneficios
+							</button><br>
+
+								<!-- Modal -->
+								<div class="modal fade" id="exampleModa2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+								  <div class="modal-dialog" role="document">
+									<div class="modal-content">
+									  <div class="modal-header">
+										<h5 class="modal-title text-uppercase" id="exampleModalLabel">Beneficios Youtube/Twitch</h5>
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										  <span aria-hidden="true">&times;</span>
+										</button>
+									  </div>
+									  <div class="modal-body">
+										<div class="text-center">
+										<p><strong>DISCORD:</strong></p>
+											<ul>
+											<li>Rango exclusivo</li>
+											<li>Canales VIPS</li>
+											<li>Anuncio de streaming</li>
+											</ul>
+											<br><p><strong>JUEGO:</strong></p>
+											<ul>
+											<li>Rango exclusivo</li>
+											<li>Premium (fly, repair)</li>
+											<li>Kits</li>
+											<li>Monedas</li>
+											</ul>
+											<br><p><strong>PARA SORTEAR:</strong></p>
+											<ul>
+											<li>2 rangos temporales</li>
+											</ul>
+										</div>
+									  </div>
+									  <div class="modal-footer">
+										<button type="button" class="btn btn-secondary" data-dismiss="modal">CERRAR</button>
+									  </div>
+									</div>
+								  </div>
+								</div>
+                    </div> <!-- single features --> 
+				</div>
+                <div class="col-lg-4 col-md-6 col-sm-9">
+                    <div class="single-features text-center mt-20">
+
+                            <h3 class="features-title">FAMOSO</h3>
+							<b><span class="text-danger mt-4"><i class="fab text-danger text-small align-text-bottom fa-youtube"></i> YOUTUBE</span></b><hr>
+							• <b>1.000</b> suscriptores.<br>
+							• <b>1</b> review <b>200 - 300</b> visitas <br><br>
+							<b><span class="text-lila"><i class="fab text-lila text-small align-text-bottom fa-twitch"></i> TWITCH</span></b><hr>
+							• <b>2</b> directos semanales + <b>IP en el titulo</b>.<br>
+							• <b>50</b> viewers.<br><br>
+							<button type="button" class="btn btn-primary btn-sm mt-2 text-uppercase" data-toggle="modal" data-target="#exampleModa3">
+								  <i class="fas fa-info-circle"></i> Beneficios
+							</button><br>
+
+								<!-- Modal -->
+								<div class="modal fade" id="exampleModa3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+								  <div class="modal-dialog" role="document">
+									<div class="modal-content">
+									  <div class="modal-header">
+										<h5 class="modal-title text-uppercase" id="exampleModalLabel">Beneficios famoso</h5>
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										  <span aria-hidden="true">&times;</span>
+										</button>
+									  </div>
+									  <div class="modal-body">
+										<div class="text-center">										
+										<p><strong>DISCORD:</strong></p>
+											<ul>
+											<li>Rango exclusivo</li>
+											<li>Canales VIPS</li>
+											<li>Anuncio de streaming</li>
+											</ul>
+										<br><p><strong>JUEGO:</strong></p>
+											<ul>
+											<li>Rango exclusivo</li>
+											<li>Vic+ (fly, repair)</li>
+											<li>Kits</li>
+											<li>Pase de batalla</li>
+											<li>Oro</li>
+											</ul>
+										<br><p><strong>PARA SORTEAR:</strong></p>
+											<ul>
+											<li>3 rangos temporales</li>
+											</ul>
+											</ul>
+										</div>
+									  </div>
+									  <div class="modal-footer">
+										<button type="button" class="btn btn-secondary" data-dismiss="modal">CERRAR</button>
+									  </div>
+									</div>
+								  </div>
+								</div>
+                    </div> <!-- single features --> 
+					
+				</div>
+            </div> <!-- row -->
+			<p class=" pt-5 text-muted text-center">Los rangos se revisarán <b>mensualmente</b>. El incumplimiento de estos requisitos, llevará a la <b>retirada</b> del rango sin previo aviso.</p>
+        </div> <!-- container -->		
+    </section>
+
+    <!--====== FOOTER PART START ======-->
+
+    <footer id="footer" class="footer-area">
+        <div class="footer-widget pt-60 pb-60">
+			<div class="copyright text-center">
+				<a href="https://instagram.com/victuzmc.us"><i class="fab fa-instagram"></i></a> <a href="https://twitter.com/VictuzNw"><i class="fab fa-twitter"></i></a><a href="https://discord.gg/b3bSp78HNc"><i class="fab fa-discord"></i><a href="https://twitch.tv/victuzmc"><i class="fab fa-twitch"></i></a><a href="https://www.youtube.com/channel/UCYio4R0C0frHvTHE8cgJNgQ"><i class="fab fa-youtube"></i></a></center>
+			</div>
+        </div> <!-- footer widget -->
+        
+        <div class="footer-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="copyright text-center">
+                            <p class="text">beCraft Network - Copyright © 2020</p>
+                        </div> <!-- copyright -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- footer copyright -->
+    </footer>
+
+    <!--====== FOOTER PART ENDS ======-->
+    
+    <!--====== BACK TOP TOP PART START ======-->
+
+    <a href="#" class="back-to-top"><i class="lni-chevron-up"></i></a>
+
+    <!--====== BACK TOP TOP PART ENDS ======-->   
+    
+
+    <!--====== jquery js ======-->
+    <script src="../assets/js/vendor/modernizr-3.6.0.min.js"></script>
+    <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
+
+    <!--====== Bootstrap js ======-->
+    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/popper.min.js"></script>
+
+
+    <!--====== Images Loaded js ======-->
+    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
+    
+    <!--====== Scrolling Nav js ======-->
+    <script src="../assets/js/jquery.easing.min.js"></script>
+    <script src="../assets/js/scrolling-nav.js"></script>
+    
+    
+    <!--====== Slick js ======-->
+    <script src="../assets/js/slick.min.js"></script>
+
+    
+    <!--====== Main js ======-->
+    <script src="../assets/js/main.js"></script>
+	<script src="../assets/js/servers.js"></script>
+		<script src="../assets/js/rotulo.js"></script>
+
+</body>
+
+</html>
